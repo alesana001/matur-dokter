@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profil"
+        android:alphabeticShortcut="p"
+        android:orderInCategory="10"
+        android:title="Profil Pengguna"
+        />
+    <item
+        android:id="@+id/tentang"
+        android:alphabeticShortcut="p"
+        android:orderInCategory="10"
+        android:title="Tentang Aplikasi"
+        />
+    <item
+        android:id="@+id/keluar"
+        android:alphabeticShortcut="p"
+        android:orderInCategory="10"
+        android:title="Keluar"
+        />
+</menu>

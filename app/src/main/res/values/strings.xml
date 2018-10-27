@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Matur Dokter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Alamat email</string>
+    <string name="passowrd">Kata sandi</string>
+    <string name="login">MASUK MATUR DOKTER</string>
+    <string name="show_pwd">Lihat kata sandi</string>
+    <string name="hide_pwd">Sembunyikan kata sandi</string>
+    <string name="forgot">Lupa kata sandi?</string>
+    <string name="closebutton">Close Button for Activity</string>
+    <string name="newUser">Belum punya akun? Daftar disini.</string>
+    <string name="fullName">Nama lengkap</string>
+    <string name="mobileNumber">Nomor Telepon</string>
+    <string name="location">Alamat</string>
+    <string name="confirmPassword">Konfirmasi kata sandi</string>
+    <string name="terms_conditions"> Dengan memilih tombol daftar saya bersedia mengikuti syarat dan ketentuan aplikasi.</string>
+    <string name="signUp">DAFTAR MATUR DOKTER</string>
+    <string name="already_user">Sudah punya akun? Masuk disini.</string>
+    <string name="registered_emailid">Please enter your Registered Email Id below:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "630521108260",
+    "firebase_url": "https://matur-dokter-ec109.firebaseio.com",
+    "project_id": "matur-dokter-ec109",
+    "storage_bucket": "matur-dokter-ec109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630521108260:android:7a6ba427f119f322",
+        "android_client_info": {
+          "package_name": "com.ngeartstudio.maturdokter.maturdokter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630521108260-v64ls33jl4b1o2889jpk6iimfqql09mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsJ5OgZPf4R-b_nl5erk24wIdx4LkTtjM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
